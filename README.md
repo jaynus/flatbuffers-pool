@@ -20,7 +20,7 @@ let name = b.create_string("something fun");
 b.finish(name, None);
 ```
 
-Local pool
+Local pool:
 
 ```rust
 use flatbuffers_pool::FlatBufferBuilderPool;
