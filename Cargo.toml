@@ -1,6 +1,6 @@
 [package]
 name = "flatbuffers-pool"
-version = "0.1.2"
+version = "0.1.3"
 authors = ["Keith Noguchi <keith.noguchi@gmail.com>"]
 edition = "2018"
 license = "Apache-2.0/MIT"
@@ -11,6 +11,8 @@ description = "FlatBufferBuilder pool"
 keywords = ["flatbuffers", "pool", "zero-copy"]
 categories = ["encoding", "data-structures", "memory-management"]
 readme = "README.md"
+# Remove this line when you run the benchmark
+build = false
 
 [dependencies]
 parking_lot = "0.10"

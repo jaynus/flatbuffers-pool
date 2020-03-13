@@ -1,8 +1,10 @@
 # flatbuffers-pool
 
+[![drone]](https://cloud.drone.io/keithnoguchi/flatbuffers-pool)
 [![crate]](https://lib.rs/flatbuffers-pool)
 [![docs]](https://docs.rs/flatbuffers-pool)
 
+[drone]: https://cloud.drone.io/api/badges/keithnoguchi/flatbuffers-pool/status.svg
 [crate]: https://img.shields.io/crates/v/flatbuffers-pool.svg
 [docs]: https://docs.rs/flatbuffers-pool/badge.svg
 
